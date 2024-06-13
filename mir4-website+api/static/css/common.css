@@ -1730,7 +1730,7 @@ html.load .sectionVer.main .notice {transform:translateX(0); opacity:1;}
 .fp-viewing-main .lcCont .mrLogo  {transform:translateX(0); opacity:1; transition-delay:300ms;}
 .fp-viewing-main .lcCont .btn  {transform:translateX(0); opacity:1; transition-delay:500ms;}
 
-.fp-viewing-signature .head h1 a,.fp-viewing-growth .head h1 a {background:url('../image/h1_logo1.png') center top no-repeat;}
+.fp-viewing-signature .head h1 a,.fp-viewing-growth .head h1 a {background:url('../image/h1_logo.png') center top no-repeat;}
 /* @end 수정1121 */
 
 

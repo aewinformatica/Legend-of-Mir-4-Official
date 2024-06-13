@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url('mir4_background.png'); /* Replace 'background-error.jpg' by the correct path of your image */
+            background-image: url('static/image/mir4_background.png'); /* Replace 'background-error.jpg' by the correct path of your image */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
